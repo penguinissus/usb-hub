@@ -7,6 +7,11 @@ Created On: August 1st
 
 # 9th Aug, 2025: Looked for parts on JLCPCB and looked at example schematics  
 Type: Research  
+What I did: Watched the USB speedrun video and decided to start looking at parts for USB A and C on jlcpcb. Also looked at example schematics of how to connect the 2 together.  
+Issues I faced: Could not find parts with schematic symbol that matched the pins on examples on the internet. Not knowing how a USB works and what each pin meant did not help either.  
+Next Steps: Figure out a better way to research. Understand how a usb works and understand the meaning of each pin. Figure out how to better find parts on jlcpcb.  
+Video evidence of today's work:  
+
 **Total time spent: 2h 30m**  
 
 # Date: Summary  
