@@ -20,7 +20,7 @@ What I did: Decided that my knowledge wasn't enough and started from the basics.
 Issues I faced: still don't understand this 24 pin thing.  
 Next Steps: Try USB A first, because video said USB A is a 4 pin thing. should be simpler to look at  
 Screenshot of work:  
-![August 11 image](August 11 screenshot.png)
+![August 11 image](August11screenshot.png)  
 **Total time spent: 50m**
 
 # Date: Summary  
