@@ -4,6 +4,7 @@ Author: penguinissus
 Description: A custom USB with very cool looks  
 Created On: August 1st  
 ---
+**this was only made because groundplane wouldn't load when i tried to upload a devlog and this is better for when im working offline anyways**
 
 # 9th Aug, 2025: Looked for parts on JLCPCB and looked at example schematics  
 Type: Research  
